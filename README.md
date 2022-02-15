@@ -1,6 +1,7 @@
 <h2 align="center"> Hola👋, mi nombre es Ronal Sánchez</h2>
-<h3 align="center">Soy Progrador Junior</h3>
+<h3 align="center">Soy Progrmador Junior</h3>
 
+<p>Me apasiona la tecnologia</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SebastianMH14&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
 
@@ -12,5 +13,5 @@
 [<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='Angular' height='30'>]
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sronaal)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=sronaal)](https://github.com/anuraghazra/github-readme-stats)
