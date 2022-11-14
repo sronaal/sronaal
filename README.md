@@ -1,4 +1,4 @@
-<h2 align="center"> Hola👋, Mi nombre es Ronal Sánchez</h2>
+<h2 align="center"> Hola👋, Mi nombre es Ronal</h2>
 <h3 align="center">Soy Programador Junior</h3>
 
 <p align="center">Tengo 20 años, me gusta la programacion, me encanta aprender cosas nuevas todos los dias</p>
