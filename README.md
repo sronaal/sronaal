@@ -1,7 +1,6 @@
 <h2 align="center"> Hola👋, Mi nombre es Ronal</h2>
-<h3 align="center">Soy Programador Junior</h3>
 
-<p align="center">Tengo 20 años, me gusta la programacion, me encanta aprender cosas nuevas todos los dias</p>
+<p align="center">Tengo 21 años, me gusta la programación, me encanta aprender cosas nuevas todos los dias</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SebastianMH14&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
 <br>
