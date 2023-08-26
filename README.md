@@ -5,8 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SebastianMH14&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
 <br>
 
-- 🌱 Actualmente estoy aprediendo NodeJS
-- ⚡ Me encuentro buscando trabajo como programador Backend
+- 🧑‍💻 Estudiante de Ingenieria en Sistemas
+- 🌱 Desarrollador Full Stack Jr. 
+
 
 <br>
 <br>
