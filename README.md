@@ -41,7 +41,7 @@ Hola, soy Ronal Sánchez, tengo 22 años, soy un entusiasta de la Informática, 
 
 
 
-###  ![](https://raw.githubusercontent.com/sronaal/sronaal/main/video-diagrama-ezgif.com-video-to-gif-converter.gif)
+###  ![](https://raw.githubusercontent.com/sronaal/sronaal/main/ezgif-7-f9026c9f1c.gif)
 
 ###  INFORME DE GESTIÓN DIARIO DE TICKETS DEL ÁREA IT 
 ###  ![](https://raw.githubusercontent.com/sronaal/sronaal/main/imagen-1.png)
