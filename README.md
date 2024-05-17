@@ -22,9 +22,6 @@
 
 
 
-## 🚀 Sobre mi
-
-Hola, soy Ronal Sánchez, tengo 22 años, soy un entusiasta de la Informática, me gusta la programación inicie en este mundo desde joven con el sueño de un dia ser Hacker 😁🤗🧑‍💻
 
 
 
