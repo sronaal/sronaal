@@ -18,7 +18,7 @@
 
 
 
-###  Evidencias de proyectos como Developer Junior y  Data Analytics Junior
+###  <p align="center">Evidencias de proyectos como Developer Junior y  Data Analytics Junior</p>
 
 
 
