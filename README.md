@@ -60,7 +60,7 @@
 ###  ![](https://raw.githubusercontent.com/sronaal/sronaal/main/imagen-5.png)
 
 ###  INFORME DE GESTIÓN IT  - CLIENTE 
-###  ![](https://raw.githubusercontent.com/sronaal/sronaal/main/imagen-5.png)
+###  ![](https://raw.githubusercontent.com/sronaal/sronaal/main/imagen-6.png)
 
 
 ###
