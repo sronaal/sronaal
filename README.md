@@ -2,7 +2,7 @@
 
 <p align="center">Tengo 22 años, soy un entusiasta de la Informática, me gusta la programación inicie en este mundo desde joven con el sueño de un dia ser Hacker (especilista de seguridad) 😁🤗🧑‍💻
 
-s</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SebastianMH14&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
 <br>
