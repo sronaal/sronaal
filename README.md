@@ -44,7 +44,7 @@
 ###  ![](https://raw.githubusercontent.com/sronaal/sronaal/main/imagen-1.png)
 
 ###  INFORME DE SERVICIOS ACTIVOS DE EMPRESA  
-###### (Censurada por información cofidencial)
+###### (Censurada por información confidencial)
 ###  ![](https://raw.githubusercontent.com/sronaal/sronaal/main/imagen-2.png)
 
 
