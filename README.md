@@ -1,6 +1,6 @@
 <h2 align="center"> Hola👋, Mi nombre es Ronal</h2>
 
-<p align="center">Tengo 22 años, soy un entusiasta de la Informática, me gusta la programación inicie en este mundo desde joven con el sueño de un dia ser Hacker (especilista de seguridad) 😁🤗🧑‍💻
+<p align="center">Tengo 22 años, soy un entusiasta de la Informática, me gusta la programación inicie en este mundo desde niño con el sueño de un dia ser Hacker (especilista de seguridad) 😁🤗🧑‍💻
 
 
 
