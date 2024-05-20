@@ -36,7 +36,7 @@
 
 ## INFRAESTRUCTURA EN CLOUD PARA EL ANÁLISIS Y VISUALIZACIÓN DE ESTADISTICAS DE INFORMACIÓN
 
-##### Se realizan varias API con NodeJS  para obtener información de las bases de datos de servidores PBX,GLPI de clientes y información financiera y de servicios de la compañia, toda esta información sale de bases de datos MySQL y son almacenedas en una base de datos en GCP en donde es obtenida por DataStream y enviado hacia BigQuery.
+#### Se realizan varias API con NodeJS  para obtener información de las bases de datos de servidores PBX,GLPI de clientes y información financiera y de servicios de la compañia, toda esta información sale de bases de datos MySQL y son almacenedas en una base de datos en GCP en donde es obtenida por DataStream y enviado hacia BigQuery.
 
 
 
