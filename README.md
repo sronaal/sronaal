@@ -1,10 +1,10 @@
 <h2 align="center"> Hola👋, Mi nombre es Ronal</h2>
 
-<p align="center">Tengo 22 años, soy un entusiasta de la Informática, me gusta la programación inicie en este mundo desde niño con el sueño de un dia ser Hacker (especialista de ciberseguridad) 😁🤗🧑‍💻
+<p align="center">Tengo 23 años, soy  Programador Fullstack, estudio actualmente la carrera de Ingenieria en Sistemas.🧑‍💻
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SebastianMH14&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SebastianMH14&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
 <br>
 
 
