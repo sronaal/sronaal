@@ -3,7 +3,7 @@
 <p align="center">Tengo 23 años, soy  Programador Fullstack, estudio actualmente la carrera de Ingenieria en Sistemas.🧑‍💻
 
 
-<p align="center">
+<p align="center" style="margin: 10px"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
             width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank"
