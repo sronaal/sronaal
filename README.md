@@ -7,11 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SebastianMH14&label=Profile%20views&color=0e75b6&style=flat%22" alt="sneidergv" /> </p>
 <br>
 
-### <p align="center"> Lo que hago actualmente </p>
-- 🧑‍💻 Trabajo como Programador Junior (Estoy buscando un empleo nuevo)
-- 🧑‍💻📕 Estudiante de Ingenieria en Sistemas
-- 🌱 En mis ratos libres trabajo en pequeños proyectos 
-- 🧑‍💻📖 Desarrollando un Bootcamp intensivo ofresivo por el Ministerio de las TIC En Colombia - Talent Tech 
+
 
 
 <br>
