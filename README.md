@@ -50,11 +50,15 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sronaal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sronaal&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p aling="center">
+    <a href="http://www.github.com/sronaal"><img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=sronaal&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+        </a>
 
-<a href="https://github.com/sronaal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sronaal&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    <a href="https://github.com/sronaal"><img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=sronaal&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
+            alt="Top Languages" />
+        </a>
+</p>
 
 
-
-
-</ul>
