@@ -2,7 +2,9 @@
 
 <p align="center">Tengo 23 años, soy  Programador Fullstack, estudio actualmente la carrera de Ingenieria en Sistemas.🧑‍💻
 
-
+<a align="center" href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sronaal&theme=dark&hide_border=true&locale=es" alt="GitHub Streak" />
+</a>
 
 
 
@@ -11,5 +13,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sronaal)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=sronaal)](https://github.com/anuraghazra/github-readme-stats)
+
