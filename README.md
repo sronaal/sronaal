@@ -1,4 +1,4 @@
-# 👨‍💻 Ronal Sánchez — Desarrollador Backend | Arquitectura de Software | Data & APIs
+# 👨‍💻 Ronal Sánchez — Programador Fullstack | Arquitectura de Software | Data & APIs
 
 [![GitHub](https://img.shields.io/badge/GitHub-sronaal-181717?style=flat&logo=github)](https://github.com/sronaal)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronal%20Sánchez-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sronaalz/)
 
