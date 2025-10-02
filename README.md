@@ -39,7 +39,8 @@ Mi enfoque combina precisión , visión creativa , intensidad investigadora  e i
 ---
 
 ## <h1 align="center"> 👁️ Filosofía </h1>
-*"El detalle crea la perfección, y la perfección no es un detalle."*  
+* <p align="center">"El detalle crea la perfección, y la perfección no es un detalle." </p>*
+<p align="center">--Leonardo Da Vinci</p>
 Creo en el **aprendizaje continuo**, la **colaboración abierta** y en escribir código que inspire confianza y claridad.  
 
 ---
