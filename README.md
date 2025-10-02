@@ -16,7 +16,7 @@ Mi enfoque combina precisión , visión creativa , intensidad investigadora  e i
 ---
 
 
-##  <h1 align> 🛠️ Tecnologías </h1>
+##  <h1 align="center"> 🛠️ Tecnologías </h1>
 
 **Lenguajes & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=fff)  
@@ -37,21 +37,21 @@ Mi enfoque combina precisión , visión creativa , intensidad investigadora  e i
 
 ---
 
-## <h1 align> 📂 Proyectos destacados </h1>
+## <h1 align="center"> 📂 Proyectos destacados </h1>
 - 🔧 **Sistema de Autenticación** — [Repositorio](https://github.com/sronaal/sistema-autenticacion)  
 - 📊 **APIs para Análisis de Servidores PBX & GLPI** — integración y visualización de datos con Looker Studio  
 - 🌍 **Dashboards responsivos** — métricas en tiempo real con gráficos interactivos  
 
 ---
 
-## <h1 align>🌱 Enfoque actual </h1>
+## <h1 align="center">🌱 Enfoque actual </h1>
 - Mejorar mis habilidades en **arquitectura backend** y **seguridad de sistemas**.  
 - Construir proyectos personales que combinen **tecnología + análisis de datos**.  
 - Compartir conocimiento con la comunidad tech (posts, meetups, contribuciones open source).  
 
 ---
 
-## <h1 align> 👁️ Filosofía </h1>
+## <h1 align="center"> 👁️ Filosofía </h1>
 *"El detalle crea la perfección, y la perfección no es un detalle."*  
 Creo en el **aprendizaje continuo**, la **colaboración abierta** y en escribir código que inspire confianza y claridad.  
 
