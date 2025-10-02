@@ -42,7 +42,7 @@ Mi enfoque combina precisión , visión creativa , intensidad investigadora  e i
 *<p align="center">"El detalle crea la perfección, y la perfección no es un detalle." </p>*
 <p align="center">-- Leonardo Da Vinci</p>
 <p align="center">
-  Creo en el **aprendizaje continuo**, la **colaboración abierta** y en escribir código que inspire confianza y claridad.  
+  Creo en el aprendizaje continuo, la colaboración abierta y en escribir código que inspire confianza y claridad.  
 </p>
+
 ---
-✨ ¡Gracias por visitar mi perfil! 🚀
