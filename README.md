@@ -28,7 +28,7 @@ Mi enfoque combina precisión , visión creativa , intensidad investigadora  e i
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=fff)  ![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=fff)  
 
 **Frontend (apoyo)**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?    style=flat&logo=tailwind-css&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=fff)
 
 ---
 
