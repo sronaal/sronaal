@@ -23,13 +23,6 @@ Mi enfoque combina precisión , visión creativa , intensidad investigadora  e i
 
 ---
 
-## <h1 align="center"> 📊 Estadísticas de GitHub </h1>
-<div style="display: flex; gap: 20px">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sronaal&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sronaal&layout=compact&theme=tokyonight)
-</div>
-
----
 
 ## <h1 align="center"> 📂 Proyectos destacados </h1>
 - 🔧 **Sistema de Autenticación** — [Repositorio](https://github.com/sronaal/sistema-autenticacion)  
