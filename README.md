@@ -17,27 +17,6 @@ Mi enfoque principal está en crear software **rápido**, **estable**, **moderno
 
 ---
 
-## 📂 Proyectos Destacados
-
-### 🔹 Dashboard Estadístico PBX
-API + dashboard para análisis de datos de Servidores PBX.  
-- Backend en Node.js  
-- Consultas optimizadas en MySQL  
-- Visualización con gráficos dinámicos  
-- Integración con Looker Studio
-
-### 🔹 Sistema de análisis GLPI
-API desarrollada para extraer, procesar y visualizar métricas de solicitudes GLPI.  
-- Enfoque en eficiencia y rendimiento  
-- Uso de técnicas ETL simples  
-- Representación visual moderna
-
-### 🔹 Portafolio Personal (Versión Actual)
-Mi sitio personal hecho con React y Tailwind.  
-👉 *En proceso de rediseño con enfoque UI/UX actualizado*
-
----
-
 ## 🛠 Tecnologías y Herramientas
 
 ### **Frontend**
@@ -79,19 +58,6 @@ Si quieres colaborar o necesitas soporte en algún proyecto, puedes contactarme:
 
 ---
 
-## ⭐ ¿Qué encontrarás en este repositorio?
-Este es mi portafolio profesional. Incluye:  
-- Diseño UI/UX moderno  
-- Componentes React reutilizables  
-- Animaciones  
-- Versiones responsive  
-- Buenas prácticas de estructura de proyectos  
-- Mejoras continuas de diseño y funcionalidad
-
----
-
-## 📄 Licencia
-Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usarlo, modificarlo o adaptarlo libremente.
 
 ---
 
