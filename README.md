@@ -1,44 +1,99 @@
-# <h1 align="center">👨‍💻  Ronal Sánchez — Programador Fullstack | Arquitectura de Software | Data & APIs </h1>
+# 👋 Hola, soy Ronal Steven Sánchez Sierra
 
+### 🚀 Desarrollador JavaScript | React.js | Node.js  
+Soy desarrollador con más de **2 años de experiencia** construyendo aplicaciones web, integrando APIs, creando dashboards de análisis de datos para servidores PBX y sistemas GLPI, y desarrollando soluciones backend con Node.js y MySQL.
 
-##  <h1 align="center"> 🚀 Sobre mí</h1>
-
-Soy un **desarrollador apasionado por el detalle, la innovación tecnológica y la creación de soluciones sólidas**.  
-Mi enfoque combina precisión , visión creativa , intensidad investigadora  e innovación disruptiva.  
-
-> ✨ Transformo ideas en **código eficiente, claro y sostenible**.  
-
+Mi enfoque principal está en crear software **rápido**, **estable**, **moderno**, y **bien estructurado**, con buenas prácticas y un diseño intuitivo.
 
 ---
 
-
-##  <h1 align="center"> 🛠️ Tecnologías </h1>
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=fff)  ![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=fff)  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=fff)
-
----
-
-
-## <h1 align="center"> 📂 Proyectos destacados </h1>
-- 🔧 **Sistema de Autenticación** — [Repositorio](https://github.com/sronaal/sistema-autenticacion)  
-- 📊 **APIs para Análisis de Servidores PBX & GLPI** — integración y visualización de datos con Looker Studio  
-- 🌍 **Dashboards responsivos** — métricas en tiempo real con gráficos interactivos  
+## 🧑‍💻 Sobre mí
+- 💻 Especializado en **React.js**, **Node.js**, **Express**, **MySQL** y **TailwindCSS**  
+- 📊 Experiencia construyendo APIs para análisis de datos PBX y GLPI  
+- 🎛 Desarrollo de dashboards estadísticos y visualización de datos (Looker Studio)  
+- 🔌 Integraciones de APIs y administración de bases de datos  
+- 🧠 Conocimientos en **Scrum** y trabajo colaborativo  
+- 🎯 Apasionado por crear interfaces limpias, responsivas y con animaciones fluidas  
 
 ---
 
-## <h1 align="center">🌱 Enfoque actual </h1>
-- Mejorar mis habilidades en **arquitectura backend** y **seguridad de sistemas**.  
-- Construir proyectos personales que combinen **tecnología + análisis de datos**.  
-- Compartir conocimiento con la comunidad tech (posts, meetups, contribuciones open source).  
+## 📂 Proyectos Destacados
+
+### 🔹 Dashboard Estadístico PBX
+API + dashboard para análisis de datos de Servidores PBX.  
+- Backend en Node.js  
+- Consultas optimizadas en MySQL  
+- Visualización con gráficos dinámicos  
+- Integración con Looker Studio
+
+### 🔹 Sistema de análisis GLPI
+API desarrollada para extraer, procesar y visualizar métricas de solicitudes GLPI.  
+- Enfoque en eficiencia y rendimiento  
+- Uso de técnicas ETL simples  
+- Representación visual moderna
+
+### 🔹 Portafolio Personal (Versión Actual)
+Mi sitio personal hecho con React y Tailwind.  
+👉 *En proceso de rediseño con enfoque UI/UX actualizado*
 
 ---
 
-## <h1 align="center"> 👁️ Filosofía </h1>
-*<p align="center">"El detalle crea la perfección, y la perfección no es un detalle." </p>*
-<p align="center">-- Leonardo Da Vinci</p>
-<p align="center">
-  Creo en el aprendizaje continuo, la colaboración abierta y en escribir código que inspire confianza y claridad.  
-</p>
+## 🛠 Tecnologías y Herramientas
+
+### **Frontend**
+- React.js  
+- TailwindCSS  
+- JavaScript / ES6+  
+- Vite  
+
+### **Backend**
+- Node.js  
+- Express  
+- MySQL  
+- Arquitectura de APIs REST
+
+### **Herramientas y Otros**
+- Git & GitHub  
+- Scrum  
+- Looker Studio  
+- Linux  
+- Figma (UI/UX)
 
 ---
+
+## 🎓 Educación
+- **Tecnólogo en Análisis y Desarrollo de Software — SENA**  
+- **Técnico en Sistemas — SENA**  
+- **Bootcamp FullStack — Talento Tech / MinTIC**  
+- **Diplomado Web — Universidad de Caldas (Misión TIC)**  
+
+---
+
+## 📬 Contacto
+Si quieres colaborar o necesitas soporte en algún proyecto, puedes contactarme:
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sronaalz/  
+- 🌐 Portafolio: https://portafolio-sronaalz.netlify.app/  
+- 📧 Email: ronal.sanx21@gmail.com  
+- 📱 Tel: +57 3202910719  
+
+---
+
+## ⭐ ¿Qué encontrarás en este repositorio?
+Este es mi portafolio profesional. Incluye:  
+- Diseño UI/UX moderno  
+- Componentes React reutilizables  
+- Animaciones  
+- Versiones responsive  
+- Buenas prácticas de estructura de proyectos  
+- Mejoras continuas de diseño y funcionalidad
+
+---
+
+## 📄 Licencia
+Este proyecto está bajo la licencia **MIT**, lo que significa que puedes usarlo, modificarlo o adaptarlo libremente.
+
+---
+
+**Gracias por visitar mi portafolio 🚀**  
+Si te gusta, ¡no olvides darle una ⭐ en GitHub!
