@@ -12,24 +12,12 @@
 
 ## 🛠 Tecnologías y Herramientas
 
-### **Frontend**
-- React.js  
-- TailwindCSS  
-- JavaScript / ES6+  
-- Vite  
+| Categoría                 | Tecnologías / Herramientas                                 |
+|---------------------------|-------------------------------------------------------------|
+| **Frontend**              | React.js, TailwindCSS, JavaScript ES6+, Vite               |
+| **Backend**               | Node.js, Express, MySQL, Arquitectura de APIs REST         |
+| **Herramientas y Otros**  | Git & GitHub, Scrum, Looker Studio, Linux, Figma (UI/UX)   |
 
-### **Backend**
-- Node.js  
-- Express  
-- MySQL  
-- Arquitectura de APIs REST
-
-### **Herramientas y Otros**
-- Git & GitHub  
-- Scrum  
-- Looker Studio  
-- Linux  
-- Figma (UI/UX)
 
 ---
 
