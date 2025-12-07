@@ -1,11 +1,4 @@
-# 👋 Hola, soy Ronal Steven Sánchez Sierra
-
-### 🚀 Desarrollador JavaScript | React.js | Node.js  
-Soy desarrollador con más de **2 años de experiencia** construyendo aplicaciones web, integrando APIs, creando dashboards de análisis de datos para servidores PBX y sistemas GLPI, y desarrollando soluciones backend con Node.js y MySQL.
-
-Mi enfoque principal está en crear software **rápido**, **estable**, **moderno**, y **bien estructurado**, con buenas prácticas y un diseño intuitivo.
-
----
+# 👋 Hola, soy Ronal Steven Sánchez Sierra |  Desarrollador JavaScript | React.js | Node.js
 
 ## 🧑‍💻 Sobre mí
 - 💻 Especializado en **React.js**, **Node.js**, **Express**, **MySQL** y **TailwindCSS**  
