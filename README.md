@@ -6,7 +6,6 @@
 - 🎛 Desarrollo de dashboards estadísticos y visualización de datos (Looker Studio)  
 - 🔌 Integraciones de APIs y administración de bases de datos  
 - 🧠 Conocimientos en **Scrum** y trabajo colaborativo  
-- 🎯 Apasionado por crear interfaces limpias, responsivas y con animaciones fluidas  
 
 ---
 
