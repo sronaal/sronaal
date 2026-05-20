@@ -80,15 +80,15 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=sronaal&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sronaal&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sronaal&layout=compact&theme=tokyonight&hide_border=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU-USUARIO&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sronaal&theme=tokyonight)
 
-![](https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=tokyonight&no-frame=true&row=1&column=6)
+![](https://github-profile-trophy.vercel.app/?username=sronaal&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
