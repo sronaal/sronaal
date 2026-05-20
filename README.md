@@ -14,11 +14,10 @@
 
 - 🤖 Construyendo herramientas con IA
 - 📞 Trabajando con VoIP y Asterisk
-- 🐳 Fan de Docker y Linux
 - ⚡ Backend con FastAPI, Node.js y NestJS
 - 🧠 Explorando LLMs locales con Ollama
-- 📡 Interesado en telecomunicaciones y observabilidad
-- 🔍 Aprendiendo constantemente sobre infraestructura y seguridad
+- 🐳 Fan de Docker y Linux
+- 📡 Interesado en telecomunicaciones, observabilidad y seguridad
 
 ---
 
@@ -26,51 +25,20 @@
 
 <div align="center">
 
-### 🚀 Backend
-
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-111?style=for-the-badge&logo=nestjs)
-
----
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-
----
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis)
-
----
-
-### 🤖 AI / LLMs
-
-![Ollama](https://img.shields.io/badge/Ollama-111?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-111?style=for-the-badge&logo=openai)
-![Gemini](https://img.shields.io/badge/Gemini-111?style=for-the-badge&logo=google)
-
----
-
-### 🐳 DevOps & Infra
-
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-
----
-
-### 📡 Telecom
-
-![Asterisk](https://img.shields.io/badge/Asterisk-111?style=for-the-badge)
-![VoIP](https://img.shields.io/badge/VoIP-111?style=for-the-badge)
-![SIP](https://img.shields.io/badge/SIP-111?style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-111?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-111?style=flat&logo=fastapi)
+![Node.js](https://img.shields.io/badge/-Node.js-111?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-111?style=flat&logo=nestjs)
+![React](https://img.shields.io/badge/-React-111?style=flat&logo=react)
+![Docker](https://img.shields.io/badge/-Docker-111?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-111?style=flat&logo=linux)
+![Redis](https://img.shields.io/badge/-Redis-111?style=flat&logo=redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-111?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-111?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-111?style=flat&logo=git)
+![Ollama](https://img.shields.io/badge/-Ollama-111?style=flat)
+![Asterisk](https://img.shields.io/badge/-Asterisk-111?style=flat)
 
 </div>
 
@@ -80,15 +48,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sronaal&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sronaal&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sronaal&layout=compact&theme=tokyonight&hide_border=true)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sronaal&theme=tokyonight)
-
-![](https://github-profile-trophy.vercel.app/?username=sronaal&theme=tokyonight&no-frame=true&row=1&column=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
