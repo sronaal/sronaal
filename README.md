@@ -41,22 +41,4 @@
 ![Asterisk](https://img.shields.io/badge/-Asterisk-111?style=flat)
 
 </div>
-
 ---
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 🧠 Actualmente explorando
-
-```txt
-LLMs • RAG • LoRA • SIP • RTP • AI Agents • Android • Observability
